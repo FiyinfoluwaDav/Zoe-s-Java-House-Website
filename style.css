@@ -2179,8 +2179,6 @@ blockquote {
 }
 
 .nav-button.home {
-    -webkit-backdrop-filter: blur(6px);
-    backdrop-filter: blur(6px);
     background-color: #ffffff0d;
     transition: background-color .3s,border-color .3s
 }
@@ -4298,8 +4296,7 @@ blockquote {
 }
 
 .story-button {
-    -webkit-backdrop-filter: blur(6px);
-    backdrop-filter: blur(6px);
+
     color: #fff;
     text-transform: uppercase;
     background-color: #ffffff0d;
@@ -4408,7 +4405,7 @@ blockquote {
 }
 
 .stats-title:hover {
-    filter: blur(1.5px)
+
 }
 
 .stats-wrap {
